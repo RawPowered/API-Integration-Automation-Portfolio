@@ -40,6 +40,8 @@ The [systems diagram](https://github.com/RawPowered/RawOps-Suite/blob/main/docs/
 
 ## Evidence and maintenance
 
+Business activity and marketing have ended, and the former live site is offline. The final working configuration remains private. [Operating history and the limits of the available SQL snapshot](https://github.com/RawPowered/RawOps-Suite/blob/main/docs/OPERATING-HISTORY.md).
+
 The source project preserves partial history of a previously functional application. Its published gallery contains 11 genuine historical captures with opaque redactions. [Publication checks](https://github.com/RawPowered/RawOps-Suite/blob/main/docs/PUBLICATION-REVIEW.md) cover syntax and secret scanning; business workflows were not executed by those checks. Review [security and privacy](https://github.com/RawPowered/RawOps-Suite/blob/main/docs/SECURITY-AND-PRIVACY.md) before considering restoration.
 
 This case was added October 26, 2026. Project source and evidence remain authoritative in RawOps Suite. No live CRM records were changed and no flows were run for this portfolio update.
