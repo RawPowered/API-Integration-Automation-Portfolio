@@ -12,3 +12,7 @@ These are future review items, not claims of completed work.
 Use synthetic data and authorized isolated environments. Do not publish secrets, customer payloads or production identifiers. Preserve each project’s own versioning rules.
 
 [Return to overview](../README.md)
+
+## Evidence now available
+
+API case covering context assembly, queues, provider events and business-record handoffs. [Published RawOps case](RAWOPS-SUITE.md), added October 26, 2026. This completes the historical/source reading path; the acceptance and restoration items above remain open.
